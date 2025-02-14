@@ -5,7 +5,7 @@ document.getElementById('insertRowButton').innerText = messages.insertRowsText;
 document.getElementById('executeQueryTitle').innerText = messages.executeSQLQueryText;
 document.getElementById('executeQueryButton').innerText = messages.submitQueryText;
 
-const backendURL = 'https://159.223.100.108:8080/';
+const backendURL = 'https://nikodurano.me/';
 
 const insertRows = () => {
     const rows = [
